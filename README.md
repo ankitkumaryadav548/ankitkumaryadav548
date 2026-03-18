@@ -15,9 +15,9 @@ ankityadav02032003@gmail.com
 </p>
 
 ## 📊 GitHub Stats:
-![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+![Stats](https://github-readme-stats.vercel.app/api?username=ankitkumaryadav548&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ankitkumaryadav548&layout=compact)
 
 ## 🔥 Streak Stats:
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ankitkumaryadav548)
