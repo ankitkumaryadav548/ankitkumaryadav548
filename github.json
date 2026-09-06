@@ -1,0 +1,25 @@
+{
+  "username": "ankitkumaryadav548",
+  "name": "Ankit Kumar Yadav",
+  "title": "B.Tech CSE Student | Full Stack Developer | AI/ML Enthusiast",
+  "education": "B.Tech Computer Science & Engineering",
+  "email": "ankityadav02032003@gmail.com",
+  "linkedin": "https://www.linkedin.com/in/ankit-kumar-yadav514/",
+  "github": "https://github.com/ankitkumaryadav548",
+  "interests": [
+    "Full Stack Development",
+    "Artificial Intelligence",
+    "Machine Learning",
+    "Data Structures & Algorithms",
+    "Backend Development",
+    "AI Agents"
+  ],
+  "skills": {
+    "languages": ["C", "C++", "Java", "Python", "JavaScript", "TypeScript", "SQL"],
+    "frontend": ["HTML", "CSS", "React.js", "Next.js", "Tailwind CSS"],
+    "backend": ["Node.js", "Express.js", "Spring Boot"],
+    "database": ["MongoDB", "MySQL"],
+    "ai_ml": ["Ollama", "LangChain", "Gemini", "AI Agents", "RAG"],
+    "tools": ["Git", "GitHub", "VS Code", "Antigravity IDE", "Postman", "npm", "Vite"]
+  }
+}
